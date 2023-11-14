@@ -1,0 +1,25 @@
+p{
+    color: blue;
+    text-align: center;
+    font-size: 25px;
+}
+h1{
+    color: red;
+    font-size: 50px;
+    text-align: justify;
+}
+a{
+    background-color: brown;
+    bottom: 10px ;
+
+}
+li{
+    font-size: 20px;
+    box-shadow: none;
+    
+}
+div{
+    font-size: 15px;
+    color: green;
+    text-align: justify;
+}
